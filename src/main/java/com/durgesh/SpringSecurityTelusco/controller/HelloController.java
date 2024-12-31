@@ -1,4 +1,4 @@
-package com.durgesh.SpringSecurityTelusco;
+package com.durgesh.SpringSecurityTelusco.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,5 +1,6 @@
-package com.durgesh.SpringSecurityTelusco;
+package com.durgesh.SpringSecurityTelusco.controller;
 
+import com.durgesh.SpringSecurityTelusco.model.StudentModel;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.durgesh.SpringSecurityTelusco;
+package com.durgesh.SpringSecurityTelusco.model;
 
 public class StudentModel {
     private int id;
