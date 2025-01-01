@@ -4,4 +4,6 @@
 3. configure security (@EnableSecurityConfig, @Configuration)
 4. remove csrf by adding
 5. make it stateless
-6. get user from database
+6. change `authentication provider all to use database`
+   1. use `DaoAuthenticationProvider class`
+7. get user from database
